@@ -1,1 +1,1 @@
-This is the repository for the APIs of my note taking app.  This was created by following the tutorial on https://serverless-stack.com for both the frontend and the backend with a few extra features that were added by me
+This is the repository for the APIs of my note taking app.  This was created by following the tutorial on https://serverless-stack.com for both the frontend and the backend with a few extra features that were added by me.
